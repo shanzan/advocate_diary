@@ -1,0 +1,16 @@
+body{
+	background-color: #535c68;
+}
+.log-in{
+    color: #ffffff;
+    border-bottom-style: ridge;
+    font-size: 25px;
+}
+.log-form{
+    background-color: #0d0d0d;
+    opacity: 0.70;
+    min-height: 600px;
+    color: #ffffff;
+    padding: 40px 40px 40px 40px;
+    margin-bottom: 40px;
+}
